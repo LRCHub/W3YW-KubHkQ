@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "WISH LIST",
+  "base_artist": "Benjazzy",
+  "createdAt": "2026-02-17T23:49:33.743416Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "12시 25분 Wish List",
+      "artist": "f(x)",
+      "has_synced": true,
+      "path": "select/01_12시_25분_Wish_List_f(x).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "12시 25분 (Wish List)",
+      "artist": "f(x)",
+      "has_synced": true,
+      "path": "select/02_12시_25분_(Wish_List)_f(x).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Wish List",
+      "artist": "Canyon City",
+      "has_synced": true,
+      "path": "select/03_Wish_List_Canyon_City.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Wish List",
+      "artist": "Her Space Holiday",
+      "has_synced": false,
+      "path": "select/04_Wish_List_Her_Space_Holiday.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Death Wish List",
+      "artist": "Voodoo Glow Skulls",
+      "has_synced": true,
+      "path": "select/05_Death_Wish_List_Voodoo_Glow_Skulls.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Wish List",
+      "artist": "Neon Trees",
+      "has_synced": true,
+      "path": "select/06_Wish_List_Neon_Trees.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Baddie On My Wish List",
+      "artist": "Fivio Foreign",
+      "has_synced": true,
+      "path": "select/07_Baddie_On_My_Wish_List_Fivio_Foreign.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Wish List",
+      "artist": "Jets To Brazil",
+      "has_synced": false,
+      "path": "select/08_Wish_List_Jets_To_Brazil.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Wish List",
+      "artist": "MYMP",
+      "has_synced": false,
+      "path": "select/09_Wish_List_MYMP.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "12시 25분 (Wish List)",
+      "artist": "f(x)",
+      "has_synced": true,
+      "path": "select/10_12시_25분_(Wish_List)_f(x).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Wish List",
+      "artist": "Yo Gotti",
+      "has_synced": true,
+      "path": "select/11_Wish_List_Yo_Gotti.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Wish List",
+      "artist": "Twista",
+      "has_synced": false,
+      "path": "select/12_Wish_List_Twista.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Wish List",
+      "artist": "7Eventh Time Down",
+      "has_synced": false,
+      "path": "select/13_Wish_List_7Eventh_Time_Down.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Wish List",
+      "artist": "Shelter",
+      "has_synced": false,
+      "path": "select/14_Wish_List_Shelter.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Wish List - WINTER GARDEN",
+      "artist": "f(x)",
+      "has_synced": true,
+      "path": "select/15_Wish_List_-_WINTER_GARDEN_f(x).lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "WISH LIST",
+      "artist": "ADAAM",
+      "has_synced": true,
+      "path": "select/16_WISH_LIST_ADAAM.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "WISH LIST",
+      "artist": "Benjazzy",
+      "has_synced": false,
+      "path": "select/pl_01_WISH_LIST_Benjazzy.txt"
+    }
+  ]
+}
